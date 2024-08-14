@@ -2,7 +2,7 @@
 
    <h1>Gajula Pavani</h1> <br>
   
-  Warangal, Telangana | pavanigajula38@gmail.com
+  <p>Warangal, Telangana | pavanigajula38@gmail.com </p>
   
 </div>
 
