@@ -43,10 +43,10 @@ destinations.
 properties such as background,flex,and CSS box model properties.
 * Implemented multiple images of a particular destination in a carousel using bootstrap carousel and virtual tour
 videos using bootstrap embed components.<br>
-**Technologies used:**  HTML, CSS, Bootstrap                                   (https://pavanigtourism.ccbp.tech/)
+**Technologies used:**  HTML, CSS, Bootstrap                                   [Tourism_Website](https://pavanigtourism.ccbp.tech/)
 
 **Portfolio Website**<br>
 Developed Portfolio website using HTML, CSS, Bootstrap And Javascript.<br>
-**Technologies used:** HTML, CSS, Bootstrap, Javascript                        (https://Pavani38.github.io)
+**Technologies used:** HTML, CSS, Bootstrap, Javascript                        [Portfolio_Website](https://Pavani38.github.io)
 
 
