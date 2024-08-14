@@ -1,8 +1,8 @@
 <div align="center">
 
-  # Gajula Pavani <br>
+   <h1>Gajula Pavani</h1> <br>
   
-  **Warangal, Telangana | pavanigajula38@gmail.com**
+  Warangal, Telangana | pavanigajula38@gmail.com
   
 </div>
 
@@ -13,20 +13,20 @@ latest technologies and provide scope for widening the spectrum of my knowledge.
 
 Education
 ===============
-<pre><b>IRC, CCBP Intensive 4.0 Tech Program                                                   Mar 2022 - Ongoing</b> <br>
+**IRC, CCBP Intensive 4.0 Tech Program**                                                   (Mar 2022 - Ongoing) <br>
 Full Stack Web Development
 
-<b>Vaagdevi Degree and P.G. College                                                            (April, 2022)</b> <br>
+**Vaagdevi Degree and P.G. College**                                                            (April, 2022) <br>
 Master of Computer Applications(MCA) – 71%
 
-<b>Vaagdevi Degree and P.G. College                                                            (April, 2019)</b> <br>
+**Vaagdevi Degree and P.G. College**                                                            (April, 2019) <br>
 Bachelor of Computer Applications(BCA) – 83%
 
-<b>Sumathi Devi Junior College                                                                 (April, 2016)</b> <br>
+**Sumathi Devi Junior College**                                                                 (April, 2016) <br>
 Intermediate(MPC) - 62%
 
-<b>Greenwood High School                                                                       (April, 2014)</b> <br>
-S.S.C - 85% </pre>
+**Greenwood High School**                                                                       (April, 2014) <br>
+S.S.C - 85% 
 
 Technical Skills
 ===============
@@ -43,10 +43,10 @@ destinations.
 properties such as background,flex,and CSS box model properties.
 * Implemented multiple images of a particular destination in a carousel using bootstrap carousel and virtual tour
 videos using bootstrap embed components.<br>
-**Technologies used:**  HTML, CSS, Bootstrap                                   <p align="right">(https://pavanigtourism.ccbp.tech/)</p>
+**Technologies used:**  HTML, CSS, Bootstrap                                   (https://pavanigtourism.ccbp.tech/)
 
 **Portfolio Website**<br>
 Developed Portfolio website using HTML, CSS, Bootstrap And Javascript.<br>
-**Technologies used:** HTML, CSS, Bootstrap, Javascript                              <p align="right">(https://Pavani38.github.io)</p>
+**Technologies used:** HTML, CSS, Bootstrap, Javascript                        (https://Pavani38.github.io)
 
 
