@@ -1,8 +1,9 @@
 <div align="center"> 
    
-   <h1>GAJULA PAVANI</h1> <br>
+   <h1>GAJULA PAVANI <br>
   
-   <span style="font-size:medium">Warangal, Telangana | pavanigajula38@gmail.com</span>
+   Warangal, Telangana | pavanigajula38@gmail.com
+   </h1>
    
 </div>
 
