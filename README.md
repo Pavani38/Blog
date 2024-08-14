@@ -13,19 +13,19 @@ latest technologies and provide scope for widening the spectrum of my knowledge.
 
 Education
 ===============
-<pre><b>IRC, CCBP Intensive 4.0 Tech Program                                                             Mar 2022 - Ongoing</b> <br>
+<pre><b>IRC, CCBP Intensive 4.0 Tech Program                                                     Mar 2022 - Ongoing</b> <br>
 Full Stack Web Development
 
-<b>Vaagdevi Degree and P.G. College                                                                      (April, 2022)</b> <br>
+<b>Vaagdevi Degree and P.G. College                                                              (April, 2022)</b> <br>
 Master of Computer Applications(MCA) – 71%
 
-<b>Vaagdevi Degree and P.G. College                                                                      (April, 2019)</b> <br>
+<b>Vaagdevi Degree and P.G. College                                                              (April, 2019)</b> <br>
 Bachelor of Computer Applications(BCA) – 83%
 
-<b>Sumathi Devi Junior College                                                                           (April, 2016)</b> <br>
+<b>Sumathi Devi Junior College                                                                   (April, 2016)</b> <br>
 Intermediate(MPC) - 62%
 
-<b>Greenwood High School                                                                                 (April, 2014)</b> <br>
+<b>Greenwood High School                                                                         (April, 2014)</b> <br>
 S.S.C - 85% </pre>
 
 Technical Skills
