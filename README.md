@@ -3,6 +3,7 @@
    <h1>GAJULA PAVANI <br>
   
    Warangal, Telangana | pavanigajula38@gmail.com
+   
    </h1>
    
 </div>
