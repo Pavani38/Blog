@@ -1,8 +1,9 @@
 <div align="center"> 
    
-   # Gajula Pavani <br>
+   <h1>Gajula Pavani</h1> <br>
   
-  ### Warangal, Telangana | pavanigajula38@gmail.com
+   Warangal, Telangana | pavanigajula38@gmail.com
+   
   
 </div>
 
