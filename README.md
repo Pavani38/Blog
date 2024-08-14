@@ -2,8 +2,7 @@
    
    <h1>GAJULA PAVANI</h1> <br>
   
-   <p>Warangal, Telangana | pavanigajula38@gmail.com
-   </p>
+   <span style="font-size:medium">Warangal, Telangana | pavanigajula38@gmail.com</span>
    
 </div>
 
